@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "name": "akande",
+      "email": "abc@gmail.com",
+      "password": "akande",
+      "id": 1
+    },
+    {
+      "name": "Sakiru",
+      "email": "abdc@gmail.com",
+      "password": "Sakiru",
+      "id": 2
+    },
+    {
+      "name": "damilare",
+      "email": "abdc@gmail.com",
+      "password": "damilare",
+      "id": 3
+    },
+    {
+      "username": "sakiru",
+      "email": "abc@test.com",
+      "password": "2345",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "abc@test.com",
+      "password": "2345",
+      "id": 5
+    },
+    {
+      "name": "sakiru",
+      "email": "abc@test.com",
+      "password": "2345",
+      "id": 6
+    },
+    {
+      "name": "akande",
+      "email": "abc@test.com",
+      "password": "2345",
+      "id": 7
+    },
+    {
+      "name": "bola",
+      "email": "bola@test.com",
+      "password": "00000",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "abc@test.com",
+      "password": "2345",
+      "id": 9
+    },
+    {
+      "name": "Akande",
+      "email": "Akande@test.com",
+      "password": "45678",
+      "id": 10
+    }
+  ],
+  "resturant": [
+    {
+      "name": "StarLink",
+      "contact": "1234567",
+      "address": "UK",
+      "id": 5
+    },
+    {
+      "name": "Clairo",
+      "contact": "456789",
+      "address": "AA",
+      "id": 6
+    },
+    {
+      "name": "Akande",
+      "contact": "345678",
+      "address": "UK",
+      "id": 7
+    },
+    {
+      "name": "janet",
+      "contact": "1234567890",
+      "address": "paris",
+      "id": 8
+    }
+  ]
+}
