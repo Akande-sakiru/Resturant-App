@@ -35,7 +35,10 @@ export default {
                 this.$router.push({name:'Home'})
             }
             else{
-                alert('Details not found.........please sign up')
+                alert('Details Not Found.........Please Sign Up')
+                this.$router.push({name:'SignUp'})
+
+
             }
         }
 
